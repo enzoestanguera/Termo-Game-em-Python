@@ -1,4 +1,4 @@
-# Termo-Game-em-Python
+
 <h1>🧠​ Termo Game Desenvolvido em Python</h1>
 
 <h2>🗣️ Equipe</h2>
